@@ -1,6 +1,6 @@
 # LED animation for Retropie emulation station
 
-Animate Raspberry Pi emulation station rgb leds with an Arduino microcontroller!
+Light up Raspberry Pi emulation station with a bunch of RGB LEDs controlled by an Arduino microcontroller!
 
 I used AtTiny85 to make things fit in small spaces but any arduino will do.
 
